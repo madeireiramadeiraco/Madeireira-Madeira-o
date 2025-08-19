@@ -1,0 +1,38 @@
+{
+  "name": "Madeiraço - Madeiras de Qualidade",
+  "short_name": "Madeiraço",
+  "description": "Fornecemos madeiras de qualidade para construção civil. Materiais para profissionais da construção em Goiás.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8B4513",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/logo/fachada.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/logo/fachada.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "construction", "materials"],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "scope": "/",
+  "screenshots": [
+    {
+      "src": "images/backgrounds/hero-bg.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "platform": "wide",
+      "label": "Página inicial da Madeiraço"
+    }
+  ]
+}
+
